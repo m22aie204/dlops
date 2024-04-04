@@ -26,7 +26,7 @@ plt.plot(x, y_relu, label='ReLU')
 plt.plot(x, y_leaky_relu, label='Leaky ReLU')
 plt.plot(x, y_tanh, label='Tanh')
 
-plt.title('Activation Functions')
+plt.title('Activation Functions for Q1')
 plt.xlabel('Input')
 plt.ylabel('Output')
 plt.grid(True)
